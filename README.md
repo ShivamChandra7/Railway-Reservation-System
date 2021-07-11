@@ -1,0 +1,2 @@
+# Railway-Reservation-System
+My group members include Shivam Chandra(LIT2020064),Aditya Gupta(LIT2020055),Aman Anand(LIT2020068),. A brief overview of what we're going to do in our project is a s follows: We are making a project on railway reservation system .In it we will be working on two fields the applicant menu and the administration menu .In The applicant or user menu we will work on reservation ,cancellation and enquiry blocks .In the administrator section we will be  adding and checking and displaying train details, passenger details etc,.
